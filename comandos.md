@@ -131,7 +131,8 @@ git checkout -b "nueva rama"
 ```
 
 es para ver los cambios en el proyecto, es un alias de git status -s:
-```git s
+```
+git s
 ```
 
 guardar cambios:
