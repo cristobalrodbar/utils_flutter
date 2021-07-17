@@ -27,7 +27,6 @@
 ## flutter
 - flutter create --org com.yourdomain appname
   - crear app nueva con paquete personalizado
-
 - flutter clean
   - limpiar crap de librerías obsoletas/remove all generated/built artifacts
 - flutter pub get/flutter packages get 
