@@ -103,6 +103,11 @@ builds a profile version of the app and starts it directly, then shows the conso
 ```
 flutter run --profile
 ```
+clean reinstall of the packages in your system cache
+
+```
+flutter pub cache repair
+```
 
 ## git
 ver ramas:
