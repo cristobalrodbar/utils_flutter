@@ -35,6 +35,11 @@ generar apk para distintas arquitecturas:
 flutter build apk --split-per-abi
 ```
 
+instalar versión específica:
+```
+flutter version "versión"
+```
+
 builds a release version of the app and starts it directly, then shows the console UI to manipulate the running instance.:
 ```
 flutter run --release
