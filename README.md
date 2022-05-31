@@ -1,5 +1,20 @@
 # flutter
 
+canal flutter sdk:
+```
+ flutter channel
+```
+
+actualizar flutter sdk:
+```
+flutter upgrade
+```
+
+actualizar plugins:
+```
+flutter pub upgrade --major-versions
+```
+
 crear app nueva con paquete personalizado:
 ```
 flutter create --org com.yourdomain appname
